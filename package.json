@@ -1,0 +1,22 @@
+{
+  "name": "base64webapp",
+  "main": "server.js",
+  "description": "A simple web app to quickly decode base64",
+  "version": "1.0.0",
+  "private": false,
+  "engines": {
+    "node": "6.*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnthonyAmanse/base64webapp"
+  },
+  "dependencies": {
+    "express": "^4.15.x"
+  },
+  "author": "Anthony Amanse",
+  "license": "Apache-2.0"
+}

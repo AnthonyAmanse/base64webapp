@@ -1,0 +1,8 @@
+---
+applications:
+ - name: base64
+   host: base64
+   domain: mybluemix.net
+   command: node server.js
+   random-route: false
+   memory: 256M
